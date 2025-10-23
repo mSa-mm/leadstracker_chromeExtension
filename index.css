@@ -14,7 +14,7 @@ input {
 }
 
 button {
-    display: block;
+    display: inline;
     margin-top: 5px;
     background-color: #5f9341;
     color: white;
@@ -31,10 +31,17 @@ ul {
 }
 
 li {
-        margin-top: 5px;
+    margin-top: 5px;
 
 }
 
- a {
-        color: #5f9341;
+a {
+    color: #5f9341;
+}
+
+
+#delete-btn {
+    background-color: white;
+    color: green;
+    border: 1px solid green;
 }
