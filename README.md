@@ -1,0 +1,1 @@
+This Chrome extension is a lightweight leads tracker that helps you save useful links quickly. You can instantly capture the URL of your current tab or manually enter any link or text you want to store. It’s especially useful for salespeople who need to collect and organize leads fast.
